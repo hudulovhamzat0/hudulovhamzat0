@@ -67,6 +67,8 @@ This bash application will help you make excellent wallpaper setup that contains
 
 ### Portfolio
 
+<img src="https://raw.githubusercontent.com/hudulovhamzat0/portfolio/refs/heads/main/ss.gif">
+
 <a href=" hudulovhamzat0.github.io/portfolio/ ">Website link</a>
 
 [View Project](https://github.com/hudulovhamzat0/portfolio)
