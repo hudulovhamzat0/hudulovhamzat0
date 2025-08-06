@@ -27,7 +27,7 @@ I'm a mid-level Python and web developer from Azerbaijan, open to job opportunit
 
 ### GitPlus
 
-<img src="https://raw.githubusercontent.com/hudulovhamzat0/GitPlus/main/photo.png" alt="GitPlus" width="300"/>
+<img src="https://raw.githubusercontent.com/hudulovhamzat0/GitPlus/main/ss.gif" alt="GitPlus" width="300"/>
 
 GitPlus is new Git application with better UI.
 
@@ -37,7 +37,7 @@ GitPlus is new Git application with better UI.
 
 ### VGC Guardian
 
-<img src="https://raw.githubusercontent.com/hudulovhamzat0/vgc-guardian/main/ss.png" alt="VGC Guardian" width="300"/>
+<img src="https://raw.githubusercontent.com/hudulovhamzat0/vgc-guardian/main/ss.gif" alt="VGC Guardian" width="300"/>
 
 Sometimes Vanguard stops running, which causes Riot games to close. This app checks the vgc service every second, and if it’s not running, it restarts it.
 
@@ -47,7 +47,7 @@ Sometimes Vanguard stops running, which causes Riot games to close. This app che
 
 ### Spotify Wallpaper
 
-<img src="https://raw.githubusercontent.com/hudulovhamzat0/spotify-wallpaper/main/ss.png" alt="Spotify Wallpaper" width="300"/>
+<img src="https://raw.githubusercontent.com/hudulovhamzat0/spotify-wallpaper/main/ss.gif" alt="Spotify Wallpaper" width="300"/>
 
 This bash application will help you make excellent wallpaper setup that contains current playing spotify music's cover image, name of artist and music name
 
@@ -57,7 +57,7 @@ This bash application will help you make excellent wallpaper setup that contains
 
 ### QR code generator
 
-<img src="https://github.com/hudulovhamzat0/qr/raw/main/ss.png" alt="QR code generator" width="300"/>
+<img src="https://github.com/hudulovhamzat0/qr/raw/main/ss.gif" alt="QR code generator" width="300"/>
 
 <a href="hudulovhamzat0.github.io/qr/">Website link</a>
 
