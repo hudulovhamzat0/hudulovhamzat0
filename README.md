@@ -37,7 +37,7 @@ GitPlus is new Git application with better UI.
 
 ### VGC Guardian
 
-<img src="https://raw.githubusercontent.com/hudulovhamzat0/vgc-guardian/main/ss.gif" alt="VGC Guardian" width="300"/>
+<img src="https://github.com/hudulovhamzat0/vgc-guardian/blob/main/ss.gif" alt="VGC Guardian" width="300"/>
 
 Sometimes Vanguard stops running, which causes Riot games to close. This app checks the vgc service every second, and if it’s not running, it restarts it.
 
