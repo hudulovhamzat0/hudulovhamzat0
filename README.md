@@ -59,7 +59,7 @@ This bash application will help you make excellent wallpaper setup that contains
 
 <img src="https://github.com/hudulovhamzat0/qr/raw/main/ss.gif" alt="QR code generator" width="300"/>
 
-<a href="hudulovhamzat0.github.io/qr/">Website link</a>
+<a href="https://hudulovhamzat0.github.io/qr/">Website link</a>
 
 [View Project](https://github.com/hudulovhamzat0/qr)
 
@@ -69,7 +69,7 @@ This bash application will help you make excellent wallpaper setup that contains
 
 <img src="https://raw.githubusercontent.com/hudulovhamzat0/portfolio/refs/heads/main/ss.gif" alt="ss.gif" width="300">
 
-<a href=" hudulovhamzat0.github.io/portfolio/ ">Website link</a>
+<a href="https://hudulovhamzat0.github.io/portfolio/ ">Website link</a>
 
 [View Project](https://github.com/hudulovhamzat0/portfolio)
 
