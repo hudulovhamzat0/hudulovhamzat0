@@ -33,13 +33,13 @@ GitPlus is new Git application with better UI.
 
 [View Project](https://github.com/hudulovhamzat0/GitPlus)
 ---
+
 ### Yone
 
 <img src="https://raw.githubusercontent.com/hudulovhamzat0/yone/main/ss.gif" alt="Yone" width="300"/>
 Vulnerability Scanner (Not finished yet)<br>
 <a href="https://github.com/hudulovhamzat0/yone"><h3>View Project</h3></a>
 
----
 ---
 
 ### VGC Guardian
