@@ -33,9 +33,9 @@ GitPlus is new Git application with better UI.
 
 [View Project](https://github.com/hudulovhamzat0/GitPlus)
 ---
-### Spotify Wallpaper
+### Yone
 
-<img src="https://raw.githubusercontent.com/hudulovhamzat0/yone/main/ss.gif" alt="Spotify Wallpaper" width="300"/>
+<img src="https://raw.githubusercontent.com/hudulovhamzat0/yone/main/ss.gif" alt="Yone" width="300"/>
 Vulnerability Scanner (Not finished yet)
 [View Project](https://github.com/hudulovhamzat0/yone)
 
