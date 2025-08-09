@@ -36,8 +36,8 @@ GitPlus is new Git application with better UI.
 ### Yone
 
 <img src="https://raw.githubusercontent.com/hudulovhamzat0/yone/main/ss.gif" alt="Yone" width="300"/>
-Vulnerability Scanner (Not finished yet)
-<a href="https://github.com/hudulovhamzat0/yone">View Project</a>
+Vulnerability Scanner (Not finished yet)<br>
+<a href="https://github.com/hudulovhamzat0/yone"><h3>View Project</h3></a>
 
 ---
 ---
