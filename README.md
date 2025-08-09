@@ -32,7 +32,14 @@ I'm a mid-level Python and web developer from Azerbaijan, open to job opportunit
 GitPlus is new Git application with better UI.
 
 [View Project](https://github.com/hudulovhamzat0/GitPlus)
+---
+### Spotify Wallpaper
 
+<img src="https://raw.githubusercontent.com/hudulovhamzat0/yone/main/ss.gif" alt="Spotify Wallpaper" width="300"/>
+Vulnerability Scanner (Not finished yet)
+[View Project](https://github.com/hudulovhamzat0/yone)
+
+---
 ---
 
 ### VGC Guardian
