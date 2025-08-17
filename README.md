@@ -23,6 +23,15 @@ I'm a mid-level Python and web developer from Azerbaijan, open to job opportunit
 
 ## Projects
 
+### RssTech
+
+<img src="https://raw.githubusercontent.com/hudulovhamzat0/RssTech/main/ss.gif" alt="GitPlus" width="300"/>
+
+Rss scraper with XSS protection and more features that scrapes Rss feed from Mashable
+
+[View Project](https://github.com/hudulovhamzat0/RssScraper)
+---
+
 ### GitPlus
 
 <img src="https://raw.githubusercontent.com/hudulovhamzat0/GitPlus/main/ss.gif" alt="GitPlus" width="300"/>
