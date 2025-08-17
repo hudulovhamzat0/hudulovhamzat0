@@ -92,11 +92,6 @@ This bash application will help you make excellent wallpaper setup that contains
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudulovhamzat0&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hudulovhamzat0&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/hudulovhamzat0/count.svg?" alt="visitors count" />
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hudulovhamzat0&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
