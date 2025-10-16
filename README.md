@@ -1,7 +1,7 @@
 # Hello 👋, I'm Hamzat Hudulov
 ### Middle Python and Web developer also Pentester
 
-I'm a mid-level Python and web developer from Azerbaijan, open to job opportunities and freelance projects.
+I'm a mid-level Python and web developer from Azerbaijan
 
 ## Contact Me
 <p><a href="https://hudulovhamzat0.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/hudulovhamzat0" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
