@@ -61,7 +61,7 @@ Sometimes Vanguard stops running, which causes Riot games to close. This app che
 
 ### Spotify Wallpaper
 
-<img src="https://raw.githubusercontent.com/hudulovhamzat0/spotify-wallpaper/main/ss.gif" alt="Spotify Wallpaper" width="300"/>
+<img src="https://raw.githubusercontent.com/hudulovhamzat0/spotify-wallpaper/main/screenshot3.png" alt="Spotify Wallpaper" width="300"/>
 
 This bash application will help you make excellent wallpaper setup that contains current playing spotify music's cover image, name of artist and music name
 
